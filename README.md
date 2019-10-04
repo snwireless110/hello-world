@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+just another resporty
+Im hear ready to work today and ready to make it tommorrow.
